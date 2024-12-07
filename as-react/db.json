@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "name": "Dior Sauvage",
+      "brand": "Dior",
+      "price": 399.99,
+      "stock": 20,
+      "image": "https://baliperfumes.com/pub/media/catalog/product/cache/c70ae39189325524823e3a7bddbfebee/i/m/img_6269572d549b2_1651070765.png",
+      "id": "1",
+      "description": "Dior Sauvage é um perfume masculino amadeirado, com notas de bergamota e pimenta.",
+      "fragrance_notes": [
+        "Bergamota",
+        "Pimenta",
+        "Ládano",
+        "Ambroxan"
+      ],
+      "category": "Perfume Masculino",
+      "rating": 4.8,
+      "launch_date": "2015-09-02",
+      "size": "100ml",
+      "available_in_sizes": [
+        "50ml",
+        "100ml",
+        "200ml"
+      ]
+    },
+    {
+      "name": "Acqua di Gio",
+      "brand": "Giorgio Armani",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://fragrance.vteximg.com.br/arquivos/ids/158398-1000-1000/acqua-di-gio-pour-homme-edt-100ml.png?v=638067211045670000",
+      "id": "2",
+      "description": "Acqua di Gio é um perfume fresco e aquático com notas de jasmim, limão siciliano e âmbar.",
+      "fragrance_notes": [
+        "Jasmim",
+        "Limão Siciliano",
+        "Âmbar",
+        "Patchouli"
+      ],
+      "category": "Perfume Masculino",
+      "rating": 4.7,
+      "launch_date": "1996-03-22",
+      "size": "100ml",
+      "available_in_sizes": [
+        "50ml",
+        "100ml",
+        "150ml"
+      ]
+    },
+    {
+      "name": "La Vie Est Belle",
+      "brand": "Lancôme",
+      "price": 349.99,
+      "stock": 8,
+      "image": "https://dcdn.mitiendanube.com/stores/977/942/products/lavietrans11-a243e2f89bc2d2f85d16436443915625-1024-1024.png",
+      "id": "3",
+      "description": "La Vie Est Belle é uma fragrância floral e frutada com notas de íris, patchouli e baunilha.",
+      "fragrance_notes": [
+        "Íris",
+        "Patchouli",
+        "Baunilha",
+        "Pêra"
+      ],
+      "category": "Perfume Feminino",
+      "rating": 4.9,
+      "launch_date": "2012-09-15",
+      "size": "75ml",
+      "available_in_sizes": [
+        "50ml",
+        "75ml",
+        "100ml"
+      ]
+    },
+    {
+      "name": "1 Million",
+      "brand": "Paco Rabanne",
+      "price": 329.99,
+      "stock": 12,
+      "image": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwcb342c59/images/hi-res-BR/32006661_500x500_3.jpg?sw=400&sh=400&sm=fit",
+      "id": "4",
+      "description": "1 Million é um perfume masculino oriental com notas de couro, canela e toranja.",
+      "fragrance_notes": [
+        "Couro",
+        "Canela",
+        "Toranja",
+        "Madeira de Cedro"
+      ],
+      "category": "Perfume Masculino",
+      "rating": 4.6,
+      "launch_date": "2008-09-01",
+      "size": "100ml",
+      "available_in_sizes": [
+        "50ml",
+        "100ml",
+        "200ml"
+      ]
+    }
+  ]
+}
